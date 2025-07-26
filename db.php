@@ -1,9 +1,9 @@
 <?php
 // db.php - handles MySQL connection
 $host = 'localhost';
-$db   = 'timekeeping';
-$user = 'root';
-$pass = '';
+$db   = 'evilgeo2_timekeeping';
+$user = 'chronos';
+$pass = 'MidnightTolls&late';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
