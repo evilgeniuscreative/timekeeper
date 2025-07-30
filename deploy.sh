@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIG ===
-LOCAL_DIR=~/Documents/Web/timekeeping-site/
+LOCAL_DIR=~/Documents/Web/timekeeping-app/dist/
 REMOTE_DIR=/var/www/html/time
 REMOTE_HOST=root@linkedout.wtf
 FIX_SCRIPT=/tmp/fixperms.sh
